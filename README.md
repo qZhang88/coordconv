@@ -12,4 +12,4 @@ The tensorflow implementation is copied from S8 in [the original paper][original
 Translated from the tensorflow code.
 
 ## TODO
-[] support Conv1d for nlp tasks
+- [ ] support Conv1d for nlp tasks
